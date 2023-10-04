@@ -1,5 +1,7 @@
 # Favorite Actor Page
 
+![Project Image](Simbu.png)
+
 This is a simple HTML project that showcases your favorite actor on a web page. It's a beginner-friendly project designed to help you learn the basics of HTML while expressing your admiration for your preferred actor or actress. 
 
 ## Table of Contents
